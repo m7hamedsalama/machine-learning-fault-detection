@@ -54,10 +54,10 @@ Together, we transformed raw sensor data into an intelligent model capable of ac
 
 ## 👨‍💻 Team Members
 Special thanks to my amazing teammates who made this journey incredible:
-
+- ⭐ [Mohamed Salama] [https://github.com/m7hamedsalama]
 - ⭐ [Ahmed Shweta]   [https://github.com/SuperHero1st]
 - ⭐ [Raneemmontaser] [https://github.com/Raneemmontaser]
-- ⭐ [Arwa-Ayman]     [
+- ⭐ [Arwa-Ayman]     [https://github.com/Arwa-Ayman]
  
 
  
