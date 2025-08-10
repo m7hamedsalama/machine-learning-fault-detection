@@ -51,7 +51,10 @@ Together, we transformed raw sensor data into an intelligent model capable of ac
 - Ready for real-world industrial integration
 
 ---
+## 📊👨‍💻 Kaggle
+  Kaggle [https://www.kaggle.com/code/mohammedsalama1/predictive-maintenance-ml-project]
 
+---  
 ## 👨‍💻 Team Members
 Special thanks to my amazing teammates who made this journey incredible:
 - ⭐ [Mohamed Salama] [https://github.com/m7hamedsalama]
