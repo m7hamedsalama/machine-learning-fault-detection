@@ -55,10 +55,10 @@ Together, we transformed raw sensor data into an intelligent model capable of ac
 ## 👨‍💻 Team Members
 Special thanks to my amazing teammates who made this journey incredible:
 
-- ⭐ [Teammate 1]
-- ⭐ [Teammate 2]
-- ⭐ [Teammate 3]  
-*(Send me your names so I can tag you!)*
+- ⭐ [@SuperHero1st]
+- ⭐ [@Raneemmontaser]
+- ⭐ [@Arwa-Ayman]  
+ 
 
  
 ---
